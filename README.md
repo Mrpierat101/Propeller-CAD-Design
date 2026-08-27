@@ -4,7 +4,7 @@ Welcome to the documentation for my custom propeller design project created in O
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 The goal of this project was to design, model, and prepare 3D-printable propellers while learning the fundamentals of propeller aerodynamics and parametric CAD workflows in Onshape.
 
@@ -14,7 +14,7 @@ The goal of this project was to design, model, and prepare 3D-printable propelle
 
 ---
 
-## 🔄 Design Evolution & Iterations
+##  Design Evolution & Iterations
 
 ![Top Down Comparison](Media/TopDownComparison.png)
 
@@ -30,7 +30,7 @@ The goal of this project was to design, model, and prepare 3D-printable propelle
 
 ---
 
-## 🚁 How Propellers Work & Lessons Learned
+##  How Propellers Work & Lessons Learned
 
 A propeller functions like a rotating wing. As the blades spin, their angled orientation (*pitch*) slices through the air to push it backward, generating an equal and opposite forward force (thrust).
 
@@ -40,7 +40,7 @@ A propeller functions like a rotating wing. As the blades spin, their angled ori
 
 ---
 
-## 💨 Aerofoil Integration (Version 2)
+##  Aerofoil Integration (Version 2)
 
 To address the drag issues of Version 1, I researched real aircraft and drone propeller mechanics and integrated *aerofoil* principles into Version 2:
 
@@ -50,7 +50,7 @@ To address the drag issues of Version 1, I researched real aircraft and drone pr
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 ├── CAD/
